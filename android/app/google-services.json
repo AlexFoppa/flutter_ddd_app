@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "150136666389",
+    "firebase_url": "https://bestruck-ff0f8.firebaseio.com",
+    "project_id": "bestruck-ff0f8",
+    "storage_bucket": "bestruck-ff0f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150136666389:android:07651376b24e57c22c911c",
+        "android_client_info": {
+          "package_name": "com.example.bestruck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150136666389-g2c4okpp99e8b5il8k5vburgj7pprfbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150136666389-g2c4okpp99e8b5il8k5vburgj7pprfbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

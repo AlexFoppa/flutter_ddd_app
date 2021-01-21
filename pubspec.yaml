@@ -1,0 +1,57 @@
+name: bestruck
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get_it: ^3.0.3
+  flutter_bloc: ^0.21.0
+  equatable: ^0.4.0
+  dartz: ^0.8.6
+  data_connection_checker: ^0.3.4
+  http: ^0.12.0+2
+  shared_preferences: ^0.5.3+4
+  cupertino_icons: ^0.1.2
+  cloud_firestore: ^0.12.9+4
+  firebase_analytics: ^1.0.4 
+  firebase_core: ^0.4.0
+  firebase_auth: ^0.14.0+5
+  provider: ^3.1.0
+  flutter_spinkit: "^4.1.1"
+  splashscreen: "^1.2.0"
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^4.1.0
+  flutter_launcher_icons: ^0.7.2
+  flutter_native_splash: ^0.1.9
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "images/logoApp.png"
+flutter_native_splash:
+  image: "images/splashScreen.png"
+  color: "42a5f5"
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  assets:
+    - images/

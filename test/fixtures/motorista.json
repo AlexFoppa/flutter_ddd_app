@@ -1,0 +1,13 @@
+{
+        "nome": "João da Silva", 
+        "telefone": "5199997777", 
+        "cnh": "97312674628", 
+        "cpf":  "203.080.440-10",
+        "endereco":  "endereço completo",
+        "email":  "teste@teste.com",
+        "tipoDeCaminhao":  "normal",
+        "ano": "2012",
+        "implemento": "sim",
+        "status": "Aguardando aprovação"
+
+  }
